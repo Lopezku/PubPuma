@@ -39,7 +39,7 @@ video {
 }
 @media (min-width: 600px) {
   video {
-    top: 58%;
+    top: 20%;
   }
 }
 @media (min-width: 1000px) {
